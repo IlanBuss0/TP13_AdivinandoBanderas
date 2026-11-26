@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Adivinando Banderas",
+    "slug": "tp13-adivinando-banderas-expo58",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "scheme": "tp13-banderas",
+    "plugins": [
+      "expo-router",
+      "expo-image"
+    ]
+  }
+}
